@@ -89,3 +89,43 @@ library(stringr)
 - **Curso en Lic. Estadística:** "Nuevas tecnologías para el análisis estadístico de datos"
 
 ---
+
+## Joselina Davyt
+
+- Investigación en UdelaR FCEyA: movilidad urbana y modelos multinivel
+
+- Docente en ORT (Diploma en Big Data): 
+  taller aprendizaje automático 
+  taller de big data
+
+- Consultor en Análisis de Datos (fiscalización, movilidad urbana, finanzas, etc.)
+
+- Lic. en Economía y Maestría en Economía
+
+--
+
+# Cosas que he hecho en R
+  
+  Análisis de 58 millones de datos espaciales (ej. transporte), 
+  
+  Modelos predictivos multivariados (ej.: análisis de clustering),
+  
+  ETL,
+  
+  Implementación en producción de soluciones en R
+
+---
+
+# Cosas que intento/quisiera hacer en R
+
+  Crear un paquete
+  
+  Deep learning
+  
+  Tratamiento de imágenes
+
+# Un paquete: httr
+
+<img src="api.PNG" />
+
+---
