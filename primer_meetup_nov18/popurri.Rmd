@@ -106,7 +106,7 @@ library(stringr)
 
 # Cosas que he hecho en R
   
-  Análisis de 58 millones de datos espaciales (ej. transporte), 
+  Análisis de  datos espaciales (ej. transporte), 
   
   Modelos predictivos multivariados (ej.: análisis de clustering),
   
